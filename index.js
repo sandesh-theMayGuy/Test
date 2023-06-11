@@ -36,9 +36,6 @@ const questions = document.querySelectorAll('#faqContainer .question');
    });
  });
 
-
-
-
 //  Logic for opening and closing of mobile sidebar 
 
  function openNav() {
